@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://www.fabio-fucci-politico.workers.dev/articoli/unestate-sempre-piu-calda-una-citta-sempre-piu-verde/",
+            "url": "https://www.fabio-fucci-politico.workers.dev/articoli/unestate-sempre-piu-calda-una-citta-sempre-piu-verde/",
+            "title": "Un&#x27;estate sempre più calda. Una città sempre più verde.",
+            "summary": "L'estate che stiamo vivendo è una delle più calde degli ultimi anni. E, purtroppo, non sembra più un'eccezione, ma una&hellip;",
+            "content_html": "<p class=\"p1\">L'estate che stiamo vivendo è una delle più calde degli ultimi anni. E, purtroppo, non sembra più un'eccezione, ma una nuova normalità che mette a dura prova la qualità della vita nelle nostre città.</p>\n<p>Le temperature registrate in queste settimane sono state eccezionalmente elevate: il 31 luglio abbiamo toccato a Pomezia una temperatura massima percepita di 38° e nella giornata di ieri, 6 agosto, ci siamo andati vicini. Di notte purtroppo la situazione non migliora.<br>Che lo si voglia chiamare cambiamento climatico o in qualsiasi altro modo, una cosa è evidente: le estati stanno cambiando e l'aumento delle temperature è ormai una realtà con cui dobbiamo confrontarci.</p>\n<p class=\"p1\"><strong>Possiamo fare qualcosa?</strong></p>\n<p class=\"p1\">Possiamo fare molto anche se c’è da dire che ogni intervento avrà dei risultati a medio/lungo termine. Questo significa che non c’è tempo da perdere e bisogna iniziare da subito.</p>\n<p class=\"p1\">L'obiettivo è rendere la nostra città più vivibile, più resistente alle ondate di calore, più decorosa e ricca di spazi da vivere.</p>\n<p class=\"p1\">Quando ho avuto la responsabilità e l’onore di amministrare Pomezia, uno degli obiettivi su cui ho voluto lavorare da subito era aumentare il verde urbano.</p>\n<p class=\"p1\">In pochi anni sono stati piantati migliaia di nuovi alberi e arbusti, sono stati realizzati nuovi parchi e giardini, è stato valorizzato il nostro bosco della Sughereta e il tutto è stato fatto coinvolgendo i cittadini e le scuole, perché la tutela del verde deve diventare un patrimonio condiviso della comunità.</p>\n<p>Sono risultati documentati e ancora oggi visibili in molte aree della città.</p>\n<p><strong>Non è una proposta nata oggi. È una visione sulla quale ho già avuto modo di lavorare concretamente.</strong></p>\n<p>Oggi credo che quel percorso debba ripartire con ancora maggiore convinzione.</p>\n<p>Perché?</p>\n<p>Più alberi significano più ombra nelle strade, nei parchi e nelle piazze. Significano meno asfalto e cemento esposti al sole e quindi meno calore accumulato durante il giorno. È proprio quell'asfalto, infatti, che nelle sere d'estate continua a rilasciare il calore accumulato, rendendo difficile anche il raffrescamento notturno.</p>\n<p>Inoltre, gli alberi migliorano la qualità dell'aria e, attraverso l'evapotraspirazione (cioè il naturale rilascio di acqua dalle foglie), contribuiscono a raffrescare l'ambiente circostante.</p>\n<p>Avere più verde in città significa anche rendere Pomezia più gradevole, più vivibile e accogliente per chi decide di beneficiare delle attività ad aria aperta.<br>Investire nel verde non significa solo piantare alberi. È una scelta che produce benefici ambientali, sociali ed economici e che rende una città più bella da vivere in ogni stagione.</p>\n<blockquote>\n<p>Qual è, secondo voi, il luogo di Pomezia che oggi avrebbe più bisogno di nuovi alberi e di maggiore ombra?</p>\n</blockquote>\n<p><a href=\"https://www.facebook.com/fabiofuccipomezia/posts/pfbid08qh87gpdTaw4tCCtku3V1yWTC22GvGszVjBfhHk28U6xgq3aUCo6ifv4Gi6NeFdSl\" target=\"_blank\" rel=\"noopener noreferrer\">Raccontatemelo nei commenti su Facebook: leggerò con interesse le vostre idee</a>.</p>\n<hr>\n<p><strong>Gli alberi migliori si piantano pensando al futuro, non all'estate che stiamo vivendo. Proprio per questo non possiamo permetterci di aspettare ancora.</strong></p>",
+            "image": "https://www.fabio-fucci-politico.workers.dev/media/posts/7/fucci_alberi_pomezia.jpeg",
+            "author": {
+                "name": "Fabio Fucci"
+            },
+            "tags": [
+                   "proposte",
+                   "caldo"
+            ],
+            "date_published": "2026-08-07T12:38:41+02:00",
+            "date_modified": "2026-08-12T12:27:02+02:00"
+        },
+        {
             "id": "https://www.fabio-fucci-politico.workers.dev/articoli/fucci-oggi-con-chi-stai/",
             "url": "https://www.fabio-fucci-politico.workers.dev/articoli/fucci-oggi-con-chi-stai/",
             "title": "Fucci, oggi con chi stai?",
@@ -38,11 +55,10 @@
                 "name": "Fabio Fucci"
             },
             "tags": [
-                   "inevidenza",
                    "consiglio"
             ],
             "date_published": "2026-07-31T08:42:00+02:00",
-            "date_modified": "2026-08-04T20:53:20+02:00"
+            "date_modified": "2026-08-12T12:52:01+02:00"
         },
         {
             "id": "https://www.fabio-fucci-politico.workers.dev/articoli/la-mia-intervista-a-il-pontino-n-11-giugno-2026/",
