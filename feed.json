@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://www.fabio-fucci-politico.workers.dev/articoli/incontriamoci-per-costruire/",
+            "url": "https://www.fabio-fucci-politico.workers.dev/articoli/incontriamoci-per-costruire/",
+            "title": "Incontriamoci per costruire",
+            "summary": "È positivo che la politica pometina abbia iniziato a muoversi in vista delle prossime elezioni comunali. Pomezia ha bisogno di&hellip;",
+            "content_html": "<p class=\"p3\">È positivo che la politica pometina abbia iniziato a muoversi in vista delle prossime elezioni comunali. Pomezia ha bisogno di un'alternativa all'attuale amministrazione e credo sia giusto iniziare a costruirla per tempo, partendo dai problemi della città e dalle soluzioni.</p>\n<p>Ho letto quindi con interesse l'appello lanciato da Partito Democratico, Movimento 5 Stelle, Partito Socialista, Sinistra Italiana e Pomezia in Testa. <strong>Raccolgo la loro disponibilità ad allargare il confronto e la rilancio.</strong></p>\n<p>Nelle scorse settimane ho detto chiaramente di essere tornato in campo. Lo faccio da <strong>indipendente civico</strong>, senza tessere di partito e senza appartenenze da difendere.</p>\n<p>È una scelta precisa: voglio essere libero di confrontarmi con tutti quelli che hanno davvero a cuore il futuro di Pomezia.</p>\n<p>Per questo credo che sia arrivato il momento di incontrarci.</p>\n<p><strong>Partiti, movimenti, liste civiche, associazioni, professionisti, imprenditori e semplici cittadini:</strong> chi pensa che Pomezia meriti un governo diverso deve avere il coraggio di confrontarsi, mettendo da parte pregiudizi, veti e vecchie contrapposizioni.</p>\n<p class=\"p3\"><strong>Serve partire da Pomezia e dalle sue necessità.</strong></p>\n<p>Parliamo di una città che deve tornare pulita e sicura, di Torvaianica e delle periferie che devono tornare al centro dell'attenzione, di servizi efficienti, sviluppo, ambiente e soprattutto di un'amministrazione fondata su etica, trasparenza e competenza.</p>\n<p>Poi verificheremo se esistono le condizioni per percorrere una strada comune.</p>\n<p>Io non chiedo a nessuno di rinunciare alla propria identità politica e non intendo rinunciare alla mia indipendenza.</p>\n<p><strong>Chiedo però a tutti di mettere per una volta Pomezia davanti alle appartenenze.</strong></p>\n<p>Se davvero vogliamo costruire un'alternativa credibile, è arrivato il momento di sederci attorno a un tavolo e cominciare a farlo.</p>\n<p><strong>Io ci sono.</strong></p>\n<p><a href=\"https://www.facebook.com/fabiofuccipomezia/posts/pfbid0UyiZGgcbsAL6EFTR7P2C3esWrQMStWUMd7tfyG69Go8U25PT1gNrx9xZGpV1oNMxl?__cft__[0]=AZh4wUm9lEKHSwILRZVP1J7Yua6THWmk97KSSGX4tdVJ5J5TtUD1dhKzR14K-tY8uioLt6tvTpWBZiw1Bxz0umryXMN_Pdd_8Pqin80uD_mWCDLCMO_yLNz0vXmfRO9tTCWXnt5NSwY&amp;__tn__=%2CO%2CP-R\" target=\"_blank\" rel=\"noopener noreferrer\">Lascia il tuo commento su Facebook</a></p>\n<p>Leggi anche:<br><a href=\"https://www.fabio-fucci-politico.workers.dev/articoli/la-mia-intervista-a-il-pontino-n-15-settembre-2026/\" target=\"_blank\" rel=\"noopener noreferrer\"></a><a href=\"https://www.fabio-fucci-politico.workers.dev/articoli/la-mia-intervista-a-il-pontino-n-15-settembre-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">La mia intervista a \"Il Pontino\" - Settembre 2026</a><br><a href=\"https://www.fabio-fucci-politico.workers.dev/articoli/fucci-oggi-con-chi-stai/\" target=\"_blank\" rel=\"noopener noreferrer\">Fucci, oggi con chi stai?</a></p>",
+            "image": "https://www.fabio-fucci-politico.workers.dev/media/posts/11/e_il_momento_di_costruire.jpeg",
+            "author": {
+                "name": "Fabio Fucci"
+            },
+            "tags": [
+                   "proposte",
+                   "elezioni"
+            ],
+            "date_published": "2026-09-16T17:56:24+02:00",
+            "date_modified": "2026-10-06T12:05:02+02:00"
+        },
+        {
             "id": "https://www.fabio-fucci-politico.workers.dev/articoli/la-mia-intervista-a-il-pontino-n-15-settembre-2026/",
             "url": "https://www.fabio-fucci-politico.workers.dev/articoli/la-mia-intervista-a-il-pontino-n-15-settembre-2026/",
             "title": "La mia intervista a &quot;Il Pontino&quot; - n. 15 Settembre 2026",
@@ -107,7 +124,7 @@
                    "elezioni"
             ],
             "date_published": "2026-08-04T13:40:51+02:00",
-            "date_modified": "2026-08-07T12:46:32+02:00"
+            "date_modified": "2026-10-06T12:05:11+02:00"
         },
         {
             "id": "https://www.fabio-fucci-politico.workers.dev/articoli/il-consiglio-comunale-non-e-una-spiaggia/",
